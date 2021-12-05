@@ -6,3 +6,5 @@
 * Simple Linear Regression
 * Lasso Regression
 * Ridge Regression
+## 逻辑回归：
+应用逻辑回归算法识别乳腺癌。
